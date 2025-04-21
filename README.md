@@ -20,7 +20,6 @@
 
 📷 **Sample Power BI Dashboard**
 
-> *(Add your Power BI screenshot below)*
 
 ![Power BI Dashboard](pic.png)
 
